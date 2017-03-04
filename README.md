@@ -7,5 +7,5 @@ You can find more information about this on their reddit wiki page [r/dailyprogr
 ## my work
 
 - [x] dailyprogrammer challenge **[#239](https://github.com/ajchili/dailyprogrammer-challenge-239-easy-cpp) (easy)** `C++`
-- [ ] dailyprogrammer challenge **[#276](https://github.com/ajchili/dailyprogrammer-challenge-276-easy-cpp) (easy)** `C++`
+- [x] dailyprogrammer challenge **[#276](https://github.com/ajchili/dailyprogrammer-challenge-276-easy-cpp) (easy)** `C++`
 - [ ] dailyprogrammer challenge **[#303](https://github.com/ajchili/dailyprogrammer-challenge-303-easy-java) (easy)** `Java`
