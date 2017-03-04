@@ -12,3 +12,6 @@ You can find more information about this on their reddit wiki page [r/dailyprogr
 - dailyprogrammer challenge **#276 (easy)**
  - [link](https://github.com/ajchili/dailyprogrammer-challenge-276-easy-cpp) to challenge
  - Written in `C++`
+- dailyprogrammer challenge **#303 (easy)**
+ - [link](https://github.com/ajchili/dailyprogrammer-challenge-303-easy-java) to challenge
+ - Written in `Java`
