@@ -17,6 +17,7 @@ You can find more information about this on their reddit wiki page [r/dailyprogr
 - [x] dailyprogrammer challenge **[#295](https://github.com/ajchili/dailyprogrammer-challenge-295-easy-cpp)** `C++`
 - [x] dailyprogrammer challenge **[#303](https://github.com/ajchili/dailyprogrammer-challenge-303-easy-java)** `Java`
 - [x] dailyprogrammer challenge **[#305](https://github.com/ajchili/dailyprogrammer-challenge-305-easy-cpp)** `C++`
+- [ ] dailyprogrammer challenge **[#306](https://github.com/ajchili/dailyprogrammer-challenge-306-easy-cpp)** `C++`
 
 ### intermediate
 - [x] dailyprogrammer challenge **[#277](https://github.com/ajchili/dailyprogrammer-challenge-277-intermediate-java)** `Java`
