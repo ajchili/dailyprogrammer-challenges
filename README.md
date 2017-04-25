@@ -7,6 +7,7 @@ You can find more information about this on their reddit wiki page [r/dailyprogr
 ## my work
 
 ### easy
+- [ ] dailyprogrammer challenge **[#212](https://github.com/ajchili/dailyprogrammer-challenge-212-easy-java)** `Java`
 - [x] dailyprogrammer challenge **[#239](https://github.com/ajchili/dailyprogrammer-challenge-239-easy-cpp)** `C++`
 - [x] dailyprogrammer challenge **[#261](https://github.com/ajchili/dailyprogrammer-challenge-261-easy-cpp)** `C++`
 - [x] dailyprogrammer challenge **[#271](https://github.com/ajchili/dailyprogrammer-challenge-271-easy-python)** `Python`
