@@ -24,3 +24,6 @@ You can find more information about this on their reddit wiki page [r/dailyprogr
 - [x] dailyprogrammer challenge **[#294](https://github.com/ajchili/dailyprogrammer-challenge-294-intermediate-java)** `Java`
 - [ ] dailyprogrammer challenge **[#306](https://github.com/ajchili/dailyprogrammer-challenge-306-intermediate-cpp)** `C++`
 - [x] dailyprogrammer challenge **[#311](https://github.com/ajchili/dailyprogrammer-challenge-311-intermediate-java)** `Java`
+
+### hard
+- [ ] dailyprogrammer challenge **[#294](https://github.com/ajchili/dailyprogrammer-challenge-294-hard-java)** `Java`
