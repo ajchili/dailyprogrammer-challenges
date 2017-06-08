@@ -23,10 +23,10 @@ _As of 6/8/2017, all of the projects will either be moved to this repository or 
 - [x] dailyprogrammer challenge **[#306](https://github.com/ajchili/dailyprogrammer-challenges/tree/master/challenges/easy/306)** `C++`
 
 ### intermediate
-- [x] dailyprogrammer challenge **[#277](https://github.com/ajchili/dailyprogrammer-challenge-277-intermediate-java)** `Java`
-- [x] dailyprogrammer challenge **[#294](https://github.com/ajchili/dailyprogrammer-challenge-294-intermediate-java)** `Java`
-- [ ] dailyprogrammer challenge **[#306](https://github.com/ajchili/dailyprogrammer-challenge-306-intermediate-cpp)** `C++`
-- [x] dailyprogrammer challenge **[#311](https://github.com/ajchili/dailyprogrammer-challenge-311-intermediate-java)** `Java`
+- [x] dailyprogrammer challenge **[#277](https://github.com/ajchili/dailyprogrammer-challenges/tree/master/challenges/intermediate/277)** `Java`
+- [x] dailyprogrammer challenge **[#294](https://github.com/ajchili/dailyprogrammer-challenges/tree/master/challenges/intermediate/294)** `Java`
+- [ ] dailyprogrammer challenge **[#306](https://github.com/ajchili/dailyprogrammer-challenges/tree/master/challenges/intermediate/306)** `C++`
+- [x] dailyprogrammer challenge **[#311](https://github.com/ajchili/dailyprogrammer-challenges/tree/master/challenges/intermediate/311)** `Java`
 
 ### hard
-- [ ] dailyprogrammer challenge **[#294](https://github.com/ajchili/dailyprogrammer-challenge-294-hard-java)** `Java`
+- [ ] dailyprogrammer challenge **[#294](https://github.com/ajchili/dailyprogrammer-challenges/tree/master/challenges/hard/294)** `Java`
