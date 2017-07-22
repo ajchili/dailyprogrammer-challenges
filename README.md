@@ -21,6 +21,7 @@ _As of 6/8/2017, all of the projects will either be moved to this repository or 
 - [x] dailyprogrammer challenge **[#303](https://github.com/ajchili/dailyprogrammer-challenges/tree/master/challenges/easy/303) [Reddit](https://www.reddit.com/r/dailyprogrammer/comments/5vb1wf/20170221_challenge_303_easy_ricochet/)** `Java`
 - [x] dailyprogrammer challenge **[#305](https://github.com/ajchili/dailyprogrammer-challenges/tree/master/challenges/easy/305) [Reddit](https://www.reddit.com/r/dailyprogrammer/comments/5xu7sz/20170306_challenge_305_easy_permutation_base/)** `C++`
 - [x] dailyprogrammer challenge **[#306](https://github.com/ajchili/dailyprogrammer-challenges/tree/master/challenges/easy/306) [Reddit](https://www.reddit.com/r/dailyprogrammer/comments/5z4f3z/20170313_challenge_306_easy_pandigital_roman/)** `C++`
+- [ ] dailyprogrammer challenge **[#314](https://github.com/ajchili/dailyprogrammer-challenges/tree/master/challenges/easy/314) [Reddit](https://www.reddit.com/r/dailyprogrammer/comments/69y21t/20170508_challenge_314_easy_concatenated_integers/?utm_content=title&utm_medium=hot&utm_source=reddit&utm_name=dailyprogrammer)** `C++`
 
 ### intermediate
 - [x] dailyprogrammer challenge **[#277](https://github.com/ajchili/dailyprogrammer-challenges/tree/master/challenges/intermediate/277) [Reddit](https://github.com/ajchili/dailyprogrammer-challenges/tree/master/challenges/intermediate/277)** `Java`
