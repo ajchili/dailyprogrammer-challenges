@@ -4,8 +4,6 @@ Dailyprogrammer is about challenging programmers of all skill level with weekly 
 
 You can find more information about this on their reddit wiki page [r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/wiki/index).
 
-_As of 6/8/2017, all of the projects will either be moved to this repository or created under this repository. this will be done to reduce the number of repositories on my GitHub account._
-
 ## my work
 
 ### easy
